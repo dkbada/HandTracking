@@ -1,3 +1,4 @@
 A series of mini OpenCV projects using MediaPipe:
 - Real-time virtual painter 
-- Computer volume control through different hand motions
+- Visual computer volume controller using different hand motions
+- Module counting number of fingers (for future project use)
